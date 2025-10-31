@@ -61,8 +61,8 @@ Returns a dictionary: {"success": True, "temp": …, "condition": …, "suggesti
 7. Publish when ready for users.
 
 #User use:
-1. Open the appilcation link
-2. Enter desired location in text box
+1. Open the appilcation link (no software required)
+2. Enter desired location (city)in text box
 3. Click 'tick' botton
 4. View suggested outfits
 
